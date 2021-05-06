@@ -1,3 +1,7 @@
+---
+-- Purely used for alt detection. Please don't use this maliciously.
+---
+
 command.new("getip")
 	:SetPermission("getip")
 
